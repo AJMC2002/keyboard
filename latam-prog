@@ -6,19 +6,19 @@ xkb_symbols "basic" {
 
     name[Group1]="Spanish (Latin American, programmer)";
 
-    key <AE00>	{ [      dollar,     1,          ,   ]	};
-    key <AE01>	{ [        plus,     2,          ,   ]	};
-    key <AE02>	{ [ bracketleft,     3,          ,   ]	};
-    key <AE03>	{ [   braceleft,     4,          ,   ]	};
-    key <AE04>	{ [   parenleft,     5,          ,   ]	};
-    key <AE05>	{ [   ampersand, numbersign, periodcentered,   sterling ]	};
-    key <AE06>	{ [         equal,     dollar,   asciitilde,       dollar ]	};
-    key <AE07>	{ [         parenright,  ampersand,      notsign,  fiveeighths ]	};
-    key <AE08>	{ [         braceright,  ampersand,      notsign,  fiveeighths ]	};
-    key <AE09>	{ [         bracketright,  ampersand,      notsign,  fiveeighths ]	};
-    key <AE10>	{ [         asterisk,  ampersand,      notsign,  fiveeighths ]	};
-    key <AE11>	{ [exclam,   question,    backslash, questiondown ]	};
-    key <AE12>	{ [bar, exclamdown, dead_cedilla, dead_ogonek]	};
+    key <AE00>	{ [       dollar,      tilde, , ]	};
+    key <AE01>	{ [         plus,          1, , ]	};
+    key <AE02>	{ [  bracketleft,          2, , ]	};
+    key <AE03>	{ [    braceleft,          3, , ]	};
+    key <AE04>	{ [    parenleft,          4, , ]	};
+    key <AE05>	{ [    ampersand,          5, , ]	};
+    key <AE06>	{ [        equal,          6, , ]	};
+    key <AE07>	{ [   parenright,          7, , ]	};
+    key <AE08>	{ [   braceright,          8, , ]	};
+    key <AE09>	{ [ bracketright,          9, , ]	};
+    key <AE10>	{ [     asterisk,          0, , ]	};
+    key <AE11>	{ [       exclam,    percent, , ]	};
+    key <AE12>	{ [          bar, exclamdown, , ]	};
 
     key <AD11>	{ [dead_acute, dead_diaeresis, dead_diaeresis, dead_abovering ]	};
     key <AD12>	{ [      plus,   asterisk,   asciitilde,  dead_macron ]	};
