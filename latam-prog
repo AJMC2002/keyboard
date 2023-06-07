@@ -17,7 +17,7 @@ xkb_symbols "latam-prog" {
     key <AE09> { [ bracketright,          9 ] };
     key <AE10> { [     asterisk,          0 ] };
     key <AE11> { [       exclam,    percent ] };
-    key <AE12> { [          bar, asciitilde ] };
+    key <AE12> { [          bar,      grave ] };
  
     key <AD01> { [	      q,	        Q ] };
     key <AD02> { [	      w,	        W ] };
